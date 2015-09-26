@@ -2,6 +2,6 @@
 	path = zsh/prezto
 	url = https://github.com/sorin-ionescu/prezto.git
   ignore = dirty
-[submodule "tmux/plugins/tpm"]
-	path = tmux/plugins/tpm
+[submodule "tmux/tmux/plugins/tpm"]
+	path = tmux/tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
